@@ -18,3 +18,7 @@ react-native run-ios
 ```bash
 yarn test
 ```
+
+![Image 1](assets/1.png)
+![Image 2](assets/2.png)
+![Image 3](assets/3.png)
